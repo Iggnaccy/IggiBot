@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IggiBot", "IggiBot\IggiBot.csproj", "{CAF13472-3396-4DA5-9028-9A192CB0DD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF13472-3396-4DA5-9028-9A192CB0DD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF13472-3396-4DA5-9028-9A192CB0DD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF13472-3396-4DA5-9028-9A192CB0DD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF13472-3396-4DA5-9028-9A192CB0DD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA5D6FC-AF6B-48D4-9681-96EC8EFFB3DA}
+	EndGlobalSection
+EndGlobal

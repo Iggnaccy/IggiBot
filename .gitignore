@@ -1,0 +1,7 @@
+
+*.exe
+IggiBot/bin/Debug/IggiBot.exe.config
+IggiBot/bin/*
+IggiBot/obj/*
+packages/*
+IggiBot/Properties/AssemblyInfo.cs
