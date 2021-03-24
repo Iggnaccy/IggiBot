@@ -6,4 +6,3 @@ Features:
     - Loyalty coins collecting
     - Coin auctions
     - Custom commands
-    - Custom features upon request
